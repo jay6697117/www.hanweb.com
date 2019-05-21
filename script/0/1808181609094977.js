@@ -1,0 +1,10 @@
+document.writeln("<div class=\'footer\'>");
+document.writeln("			<div class=\'footercon\'>");
+document.writeln("				<p class=\'one\'>全国客户服务热线：<span style=\'color:white;margin-right:10px;\'>400-969-0828</span> 南京总公司：南京市玄武区钟灵街50号紫金大厦3F</p>");
+document.writeln("				<p class=\'two\'>2000-2018 南京大汉网络有限公司   版权所有 <a href=\"http://www.miitbeian.gov.cn/\" target=\"_blank\">苏ICP备 05075050号</a></p>");
+document.writeln("<div class=\"jinhui\"><iframe src=\"http://www.hanweb.com/col/col3262/index.html\" width=\"45\" height=\"60\" scrolling=\"no\" allowTransparency=\"true\" frameborder=\"0\"></iframe></div>");
+document.writeln("</div></div>");
+document.writeln("<style>");
+document.writeln(".footercon {width: 1200px; margin: 0px auto; position: relative;}");
+document.writeln(".footercon .jinhui { position: absolute; left: 320px; top: 45px;}");
+document.writeln("</style>");
